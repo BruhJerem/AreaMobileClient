@@ -1,0 +1,35 @@
+{
+  "name": "my-new-project",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "test": "node ./node_modules/jest/bin/jest.js --watchAll"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/samples": "2.1.1",
+    "@expo/vector-icons": "latest",
+    "expo": "^31.0.6",
+    "expo-facebook": "^3.0.0",
+    "lodash.merge": "^4.6.1",
+    "npm": "^6.8.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-checkbox": "^2.0.0",
+    "react-native-dropdownalert": "^3.9.2",
+    "react-native-elements": "^1.1.0",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-switch": "^1.5.0",
+    "react-navigation": "^2.18.3"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0",
+    "jest-expo": "^31.0.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Github": {
+    "key": "",
+    "secret_key": ""
+  },
+  "Trello": {
+    "key": "",
+    "secret_key": ""
+  },
+  "Instagram": {
+    "client_id": "",
+    "secret_key": ""
+  },
+  "Twitch": {
+    "key": "",
+    "secret_key": ""
+  },
+  "Gmail": {
+    "client_id": "",
+    "secret_key": ""
+  },
+  "Facebook": {
+    "client_id": "",
+    "secret_key": ""
+  },
+  "Discord": {
+    "client_id": "",
+    "secret_key": ""
+  }
+}
